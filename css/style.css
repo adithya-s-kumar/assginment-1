@@ -1,0 +1,138 @@
+.header{
+    width: 100%;
+    height:150px;
+    background-color: black;
+}
+.bg{
+    background: url(../img/background2.jpg);
+    background-size: cover;
+}
+
+.pic{
+    width: 10%;
+    height: 100px;
+    float: left;
+    
+    
+}
+.logo{
+    width: 150px;
+    height: 100px;
+}
+.name{
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin-bottom: 20px;
+    color: aliceblue;
+    margin-left:92px ;
+}
+.heading{
+    color: aliceblue;
+    margin-top: 36px;
+}
+.button a{
+    color: aliceblue;
+    margin: -6px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+    position: relative;
+    top: 30px;
+    margin-left:30px ;
+
+}
+.button a:hover{
+    background-color: aqua;
+    color: black;
+}
+.content1{
+    width: 100%;
+    height: 350px;
+    
+}
+.box1{
+    width: 60%;
+    height: 20%;
+    color: aliceblue;
+    margin-left: 70px;
+}
+.heading2{
+       position: relative;
+       left:-386px;
+}
+.box2{
+    width: 34%;
+    height: 77%;
+    margin-left: 830px;
+    margin-top: -4%;
+    background-color:blueviolet;
+    
+}
+.information{
+    color: aliceblue;
+    margin-left: 90PX;
+}
+.button{
+    margin-left: 80px;
+    background-color: blue;
+}
+
+
+#head1{
+    margin-left: 80px;
+    color: white;
+}
+#foot{
+    margin-left:280px ;
+    margin-top: 80px;
+}
+
+.box3 {
+    width: 23%;
+    height: 246px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    background-color: goldenrod;
+}
+
+.box4 {
+    width: 23%;
+    height: 246px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    background-color: goldenrod;
+}
+.box5 {
+    width: 23%;
+    height: 246px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    background-color: goldenrod;
+}
+
+.box6 {
+    width: 23%;
+    height: 246px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    background-color: goldenrod;
+}
+.footer {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    color: white;
+    margin-left: -4pxpx;
+    margin-top: 150px;
+}
+.icon{
+    margin-left: 280px;
+}
+#foot{
+    margin-left: 558px;
+}
